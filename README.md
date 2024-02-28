@@ -38,9 +38,3 @@ minikube service mynginx -p my-dep-env
 This will open the browser and show the nginx service running.
 
 **Step-4: Check the nginx web service or application**
-
-
-
-
-
-
